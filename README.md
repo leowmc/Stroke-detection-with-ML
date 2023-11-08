@@ -9,6 +9,8 @@
 * Different machine learning models have been developed to predict the likelihood of a stroke occurring in the brain.
 * This project intends to use machine learning algorithms to develop and train a model for reliable prediction and study analysis, hence making it possible to anticipate the onset of a stroke such that patients can be treated promptly to avoid irreversible damage or death.
 
+Source of Dataset : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 ## Data Visualization
 <img width="1000" alt="image" src="https://github.com/leowmc/Stroke-detection-with-ML/assets/144865130/79a934bb-0121-4389-8903-50cfd53839d1">
 
